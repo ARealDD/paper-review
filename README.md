@@ -12,7 +12,7 @@
 
 可以参考其工作过程图的画法。
 
-![工作过程图](https://github.com/ARealDD/paper-review/blob/main/img/Snipaste_2021-04-21_20-49-29.png)
+![工作过程图](https://github.com/ARealDD/paper-review/blob/main/img/Snipaste_2021-04-21_21-01-41.jpg)
 
 ### 软件过程建模方法研究
 
@@ -62,4 +62,4 @@
 
 本文最值得借鉴的部分是其研究设计模块。由于敏捷方法不依托工具，其方法自由度高，形式化程度低，对新模型的验证是主要关注的问题。本文使用了三角法（ triangulation method ）评估模型，第一阶段包括论文阅读、需求分析和模型提议；第二部分包括模型验证和模型改善。
 
-![研究设计](.\img\Snipaste_2021-04-21_20-49-29.png)
+![研究设计](https://github.com/ARealDD/paper-review/blob/main/img/Snipaste_2021-04-21_21-02-13.jpg)
