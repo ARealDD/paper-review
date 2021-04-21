@@ -12,7 +12,7 @@
 
 可以参考其工作过程图的画法。
 
-![工作过程图](./img/Snipaste_2021-04-21_20-53-46.png)
+![工作过程图](https://github.com/ARealDD/paper-review/blob/main/img/Snipaste_2021-04-21_20-49-29.png)
 
 ### 软件过程建模方法研究
 
